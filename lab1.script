@@ -1,0 +1,72 @@
+Script started on 2016年03月04日 (週五) 13時46分21秒
+]0;F74046404@2015cpp: ~[01;32mF74046404@2015cpp[00m:[01;34m~[00m$ shoami; [1P[1@w[C[C[C[C[C[C[C p w d 
+F74046404
+/home/F74046404
+]0;F74046404@2015cpp: ~[01;32mF74046404@2015cpp[00m:[01;34m~[00m$ git config -l
+]0;F74046404@2015cpp: ~[01;32mF74046404@2015cpp[00m:[01;34m~[00m$ git clone http://github.com/lgc0502/lab1.git
+fatal: destination path 'lab1' already exists and is not an empty directory.
+]0;F74046404@2015cpp: ~[01;32mF74046404@2015cpp[00m:[01;34m~[00m$ cat lab1.script
+]0;F74046404@2015cpp: ~[01;32mF74046404@2015cpp[00m:[01;34m~[00m$ mv lab1.script lab1
+]0;F74046404@2015cpp: ~[01;32mF74046404@2015cpp[00m:[01;34m~[00m$ git add lab1.script
+fatal: Not a git repository (or any of the parent directories): .git
+]0;F74046404@2015cpp: ~[01;32mF74046404@2015cpp[00m:[01;34m~[00m$ cd lab1
+]0;F74046404@2015cpp: ~/lab1[01;32mF74046404@2015cpp[00m:[01;34m~/lab1[00m$ cd lab1git add lab1.script
+]0;F74046404@2015cpp: ~/lab1[01;32mF74046404@2015cpp[00m:[01;34m~/lab1[00m$ git commit lab.script
+error: pathspec 'lab.script' did not match any file(s) known to git.
+]0;F74046404@2015cpp: ~/lab1[01;32mF74046404@2015cpp[00m:[01;34m~/lab1[00m$ git commit lab.script[2Padd lab1.scriptcommit lab.script[K[K[K[K[K[K[K[K[K[K[K
+
+*** Please tell me who you are.
+
+Run
+
+  git config --global user.email "you@example.com"
+  git config --global user.name "Your Name"
+
+to set your account's default identity.
+Omit --global to set the identity only in this repository.
+
+fatal: empty ident  <F74046404@2015cpp.(none)> not allowed
+]0;F74046404@2015cpp: ~/lab1[01;32mF74046404@2015cpp[00m:[01;34m~/lab1[00m$ git commit lab.script1.script
+
+*** Please tell me who you are.
+
+Run
+
+  git config --global user.email "you@example.com"
+  git config --global user.name "Your Name"
+
+to set your account's default identity.
+Omit --global to set the identity only in this repository.
+
+fatal: empty ident  <F74046404@2015cpp.(none)> not allowed
+]0;F74046404@2015cpp: ~/lab1[01;32mF74046404@2015cpp[00m:[01;34m~/lab1[00m$ git cinfig --global user.name""l"g"c"0"5"0"2"[C
+git: 'cinfig' is not a git command. See 'git --help'.
+
+Did you mean this?
+	config
+]0;F74046404@2015cpp: ~/lab1[01;32mF74046404@2015cpp[00m:[01;34m~/lab1[00m$ git cinfig --global user.name"lgc0502"[1P[1@o
+]0;F74046404@2015cpp: ~/lab1[01;32mF74046404@2015cpp[00m:[01;34m~/lab1[00m$ git commit lab1.script
+
+*** Please tell me who you are.
+
+Run
+
+  git config --global user.email "you@example.com"
+  git config --global user.name "Your Name"
+
+to set your account's default identity.
+Omit --global to set the identity only in this repository.
+
+fatal: empty ident  <F74046404@2015cpp.(none)> not allowed
+]0;F74046404@2015cpp: ~/lab1[01;32mF74046404@2015cpp[00m:[01;34m~/lab1[00m$ git commit lab1.scriptnfig --global user.name"lgc0502"[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Ci[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[16Pommit lab1.script[K lab.script[2Padd lab1.script[12Pcd lab1git add lab1.scriptmv lab1.script lab1[4Pcat lab1.scriptmv lab1.script lab1git add lab1.script[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K config -1
+error: unknown switch `1'
+usage: git config [options]
+
+Config file location
+    --global              use global config file
+    --system              use system config file
+    --local               use repository config file
+    -f, --file <file>     use given config file
+
+Action
+    --get             
