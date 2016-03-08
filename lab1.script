@@ -1,0 +1,29 @@
+Script started on 2016年03月08日 (週二) 19時24分39秒
+]0;F74046404@2015cpp: ~/lab1F74046404@2015cpp:~/lab1$ [K]0;F74046404@2015cpp: ~/lab1F74046404@2015cpp:~/lab1$ [K]0;F74046404@2015cpp: ~/lab1F74046404@2015cpp:~/lab1$ whoami; pwd
+F74046404
+/home/F74046404/lab1
+]0;F74046404@2015cpp: ~/lab1F74046404@2015cpp:~/lab1$ git config -l
+user.name=lgc0502
+core.repositoryformatversion=0
+core.filemode=true
+core.bare=false
+core.logallrefupdates=true
+remote.origin.fetch=+refs/heads/*:refs/remotes/origin/*
+remote.origin.url=https://github.com/lgc0502/lab1.git
+branch.master.remote=origin
+branch.master.merge=refs/heads/master
+remote.lab1.script.url=https://github.com/lgc0502/lab1.git
+remote.lab1.script.fetch=+refs/heads/*:refs/remotes/lab1.script/*
+remote.A.cpp.url=https://github.com/lgc0502/lab1.git
+remote.A.cpp.fetch=+refs/heads/*:refs/remotes/A.cpp/*
+remote.QB.script.url=https://github.com/lgc0502/lab1.git
+remote.QB.script.fetch=+refs/heads/*:refs/remotes/QB.script/*
+]0;F74046404@2015cpp: ~/lab1F74046404@2015cpp:~/lab1$ git clone https://github.com/lgc0502/lab1.git
+Cloning into 'lab1'...
+remote: Counting objects: 7, done.[K
+remote: Compressing objects:  20% (1/5)   [Kremote: Compressing objects:  40% (2/5)   [Kremote: Compressing objects:  60% (3/5)   [Kremote: Compressing objects:  80% (4/5)   [Kremote: Compressing objects: 100% (5/5)   [Kremote: Compressing objects: 100% (5/5), done.[K
+remote: Total 7 (delta 1), reused 3 (delta 0), pack-reused 0[K
+Unpacking objects:  14% (1/7)   Unpacking objects:  28% (2/7)   Unpacking objects:  42% (3/7)   Unpacking objects:  57% (4/7)   Unpacking objects:  71% (5/7)   Unpacking objects:  85% (6/7)   Unpacking objects: 100% (7/7)   Unpacking objects: 100% (7/7), done.
+]0;F74046404@2015cpp: ~/lab1F74046404@2015cpp:~/lab1$ exit
+
+Script done on 2016年03月08日 (週二) 19時28分58秒
